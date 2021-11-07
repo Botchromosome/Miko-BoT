@@ -165,7 +165,7 @@ const menu = {
 before: `*Halo* ${name}
 
 *メ ──❒「 INFO MIKO 」 ❒*
-❒ *Nama:* Miko Chan
+❒ *Nama:* BoT×ChM
 ❒ *Runtime:* ${count(uptime)}
 ❒ *Speed:* ${latensi.toFixed(4)} ms
 ❒ *Host:* ${os.hostname()}
