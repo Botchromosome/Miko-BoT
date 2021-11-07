@@ -1,5 +1,5 @@
 {
-  "name": "Miko-Bot",
+  "name": "ChM×BoT",
   "version": "1.0.0",
   "description": "WhatsApp Bot Ringan",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "kotz",
+  "author": "Ajur",
   "bugs": {
     "url": "https://github.com/Kotzyy/MIKO-BOT/issues"
   },
