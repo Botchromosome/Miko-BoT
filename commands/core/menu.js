@@ -53,7 +53,7 @@ let capt = `*${me}*
 Hello ${name} ${ucapan()}
 
 *メ ──❒「 INFO MIKO 」 ❒*
-❒ *Nama:* Miko Chan
+❒ *Nama:* BoT×ChM
 ❒ *Runtime:* ${count(uptime)}
 ❒ *Speed:* ${latensi.toFixed(4)} ms
 ❒ *Host:* ${os.hostname()}
@@ -134,7 +134,7 @@ function ucapan() {
   if (time >= 4) {
     res = "Good Morning🌄"
   }
-  if (time > 10) {
+  if (time > 12) {
     res = "good afternoon"
   }
   if (time >= 15) {
