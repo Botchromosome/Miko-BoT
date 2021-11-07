@@ -1,5 +1,5 @@
 userbot = {
- owner: [ "6281325994066" ],
+ owner: [ "6281804832728" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
    mess: {
    wait: "tunggu sedang di proses...",
@@ -14,7 +14,7 @@ userbot = {
    eror: "Sepertinya Erorr",
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
-   packname: 'MikoBot',
+   packname: 'BoT-Chromosome',
    author: 'github.com/Kotzyy',
     setting: {
     admin: "only admin",
